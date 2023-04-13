@@ -1,5 +1,6 @@
 
 # wordle made for fun
+#hosted at: https://divyam.netlify.app/ 
 The rules of Wordle are elegantly simple.
 
 Your objective is to guess a secret five-letter word in as few guesses as possible.
